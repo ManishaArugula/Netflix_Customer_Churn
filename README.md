@@ -1,4 +1,5 @@
 ## Key Insights from Netflix Customer Churn:EDA
+The Dataset is available on Kaggle : https://www.kaggle.com/datasets/abdulwadood11220/netflix-customer-churn-dataset
 
 ### Activity, Engagement and Subscription Types
 
