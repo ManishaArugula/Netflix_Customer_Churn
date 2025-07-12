@@ -1,4 +1,4 @@
-## Key Insights from Netflix Customer Churn:EDA
+## I. Key Insights from Netflix Customer Churn:EDA
 The Dataset is available on Kaggle : https://www.kaggle.com/datasets/abdulwadood11220/netflix-customer-churn-dataset
 
 ### Activity, Engagement and Subscription Types
@@ -25,4 +25,6 @@ The Dataset is available on Kaggle : https://www.kaggle.com/datasets/abdulwadood
 
 2. 60% of individuals aged 45–58 identifying as 'Others' in Europe also have high churn rates.
 
+## II. Churn Prediction using ML Algorithms
+Machine learning models, such as Logistic Regression and XGBoost were utilised to predict the cutomer churn. XGBoost outperforms with 98% of accuracy and Losgistic Regression initially achieved an accuracy of 88% but improved to 91% through feature engineering 
 
